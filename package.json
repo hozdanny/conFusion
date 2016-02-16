@@ -1,0 +1,22 @@
+{
+  "name": "quadratic",
+  "version": "1.0.0",
+  "description": "a simple quadratic solver",
+  "main": "discriminant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hozdanny/conFusion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hozdanny/conFusion/issues"
+  },
+  "homepage": "https://github.com/hozdanny/conFusion#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
